@@ -6,7 +6,7 @@ make setup       # install dependencies (requirements.txt)
 make pipeline    # load_data.py -> cell_counts.db, then run_analysis.py -> outputs/
 make dashboard   # Streamlit dashboard on port 8501
 ```
-Dashboard link: `http://localhost:8501` (in Codespaces, open the forwarded port 8501).
+Dashboard link: https://upgraded-pancake-9w46jj46w7x2j5j-8501.app.github.dev/
 
 ## Layout
 | File | Purpose |
